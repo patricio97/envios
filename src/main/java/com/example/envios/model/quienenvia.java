@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Data
 
-public class quienenvia {
+public class QuienEnvia {
     private String idUsuario;
     private String usuario;
     private String contrasena;
